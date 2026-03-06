@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-Welcome to the **Data Warehouse* repository. 🚀  
+Welcome to the **Data Warehouse** repository. 🚀  
 
 This project demonstrates a **complete modern data warehousing solution**, starting from **data ingestion and ETL pipelines** to **data modeling and analytics reporting**.
 
